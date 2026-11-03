@@ -64,4 +64,8 @@ This is an educational simulation project. Stock prices are predefined sample va
 
 ## Author
 
-Java Project – Stock Trading Platform
+## Author
+
+Shreya Bagal
+
+GitHub: https://github.com/shreyabagal2007-hub
